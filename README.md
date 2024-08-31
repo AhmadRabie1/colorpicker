@@ -1,2 +1,2 @@
 # colorpicker
-pick any color you need just for training
+pick any color you need just for (training)
